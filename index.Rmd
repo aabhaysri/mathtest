@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Math Problems"
+author: "Professor Shuva Gupta and Abhay Srivastava"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
